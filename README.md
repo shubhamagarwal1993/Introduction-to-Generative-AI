@@ -1,29 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    font-family: Arial, sans-serif;
-  }
-
-  th, td {
-    padding: 10px;
-    text-align: left;
-    border-bottom: 1px solid #ccc;
-  }
-
-  th {
-    background-color: #007acc;
-    color: white;
-  }
-
-  tr:nth-child(even) {
-    background-color: #f2f2f2;
-  }
-</style>
-</head>
 <body>
 
 # Hands-on Generative Artificial Intelligence
